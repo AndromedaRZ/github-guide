@@ -34,4 +34,4 @@ Dengan GitHub, kamu bisa:
 Jadi, Git adalah alat untuk mencatat perubahan,
 sedangkan GitHub adalah tempat untuk menyimpan dan bekerja sama secara online.
 
-
+forked by Ricky
