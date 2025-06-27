@@ -7,6 +7,7 @@ Ini adalah langkah pertama sebelum kamu mulai menggunakan Git. Di tutorial ini, 
 
 
 🧩 1. Instalasi Git
+
 🔹 Untuk Windows:
 1. Buka situs resmi Git: https://git-scm.com/
 2. Klik tombol Download for Windows
