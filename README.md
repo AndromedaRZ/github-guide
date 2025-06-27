@@ -1,7 +1,8 @@
-# git_and_github_guide
+# Git_and_Github_guide
 Buku panduan untuk git dan github - by rizky
 
 👋 Selamat Datang!
+
 Halo! Terima kasih telah mengunjungi dokumentasi ini.
 GitBook ini saya buat sebagai panduan dasar bagi kamu yang baru mulai belajar Git dan GitHub.
 
