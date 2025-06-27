@@ -34,4 +34,11 @@ Dengan GitHub, kamu bisa:
 Jadi, Git adalah alat untuk mencatat perubahan,
 sedangkan GitHub adalah tempat untuk menyimpan dan bekerja sama secara online.
 
+🧠 Analogi sederhana dari Git dan GitHub
+Bayangkan kamu sedang menulis sebuah dokumen penting di komputer.
 
+💾 Git itu seperti fitur "Undo" dan "Simpan versi" di Microsoft Word.
+Kamu bisa menyimpan versi berbeda dari dokumen kamu, melihat perubahan dari waktu ke waktu, dan kembali ke versi sebelumnya kalau salah.
+
+☁️ GitHub itu seperti Google Drive untuk dokumenmu.
+Kamu menyimpan dokumen versi Git tadi di internet, jadi bisa diakses dari komputer mana pun, dan bisa dibagikan ke teman atau tim kamu untuk kerja bareng.
