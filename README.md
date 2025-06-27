@@ -4,7 +4,7 @@ Buku panduan untuk git dan github - by rizky
 👋 Selamat Datang!
 
 Halo! Terima kasih telah mengunjungi dokumentasi ini.
-GitBook ini saya buat sebagai panduan dasar bagi kamu yang baru mulai belajar Git dan GitHub.
+Dokumentasi ini saya buat sebagai panduan dasar bagi kalian yang baru mulai belajar Git dan GitHub.
 
 Saya tahu betul bahwa saat pertama kali belajar mengenai Git dan Github, pasti akan terasa membingungkan di awal bagi orang yang baru mengenal dan mendengar kata Git dan Github, alasannya cukup bermacam-macam seperti banyaknya perintah, istilah teknik yang sulit dimengerti, dan beberapa konsep yang harus dipahami. Oleh karena itu, tujuan utama dari dokumentasi ini adalah untuk membantu kalian mempelajari Git dan Github dengan cara yang sederhana, mudah dimengerti, dan langsung bisa dipraktikan.
 
