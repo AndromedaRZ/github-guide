@@ -1,4 +1,4 @@
-📘 Bab 1: Instalasi dan Konfigurasi Git
+# 📘 Bab 1: Instalasi dan Konfigurasi Git
 
 Ini adalah langkah pertama sebelum kamu mulai menggunakan Git. Di tutorial ini, kita akan:
 1. Menginstal Git di komputer
@@ -6,7 +6,7 @@ Ini adalah langkah pertama sebelum kamu mulai menggunakan Git. Di tutorial ini, 
 3. Mengatur nama dan email sebagai identitas Git
 
 
-🧩 1. Instalasi Git
+## 🧩 1. Instalasi Git
 
 🔹 Untuk Windows:
 1. Buka situs resmi Git: https://git-scm.com/
