@@ -1,5 +1,5 @@
-# Git_and_Github_guide
-Buku panduan untuk git dan github - by rizky
+# Git and Github guide for beginners
+Buku panduan untuk git dan github - by Rizky
 
 👋 Selamat Datang!
 
