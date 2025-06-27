@@ -18,11 +18,13 @@ Di sini, kamu akan menemukan:
 Semoga dokumentasi ini bisa menjadi teman belajar kalian dalam perjalanan mengenal dunia version control dan kolaborasi kode. Selamat belajar, dan jangan ragu untuk bereksperimen! 🚀
 
 🔍 Apa Itu Git?
+
 Git adalah sebuah alat (software) yang digunakan untuk mencatat setiap perubahan yang kita buat pada file, terutama dalam proyek pemrograman.
 Bayangkan Git seperti mesin waktu untuk kode kamu, kita bisa melihat riwayat perubahan, kembali ke versi sebelumnya, dan bekerja sama dengan orang lain tanpa takut merusak proyek utama.
 Git bekerja secara lokal di komputer kamu, dan digunakan untuk mengelola proyek secara teratur dan aman.
 
 ☁️ Apa Itu GitHub?
+
 GitHub adalah sebuah platform online yang digunakan untuk menyimpan dan membagikan proyek Git kamu di internet.
 Dengan GitHub, kamu bisa:
 - Menyimpan salinan repositori Git secara online (disebut remote repository)
