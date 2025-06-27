@@ -1,8 +1,10 @@
 📘 Bab 1: Instalasi dan Konfigurasi Git
+
 Ini adalah langkah pertama sebelum kamu mulai menggunakan Git. Di tutorial ini, kita akan:
-1.) Menginstal Git di komputer
-2.) Mengecek apakah Git sudah terpasang
-3.) Mengatur nama dan email sebagai identitas Git
+1. Menginstal Git di komputer
+2. Mengecek apakah Git sudah terpasang
+3. Mengatur nama dan email sebagai identitas Git
+
 
 🧩 1. Instalasi Git
 🔹 Untuk Windows:
@@ -13,10 +15,14 @@ Ini adalah langkah pertama sebelum kamu mulai menggunakan Git. Di tutorial ini, 
 
 🔹 Untuk macOS:
 pergi ke bash pada macOS:
+
 `brew install git`
+
 *(Pastikan kamu sudah menginstal Homebrew. Jika belum, lihat https://brew.sh)*
 
+
 🔹 Untuk Linux (Ubuntu/Debian):
+
 `sudo apt update
 sudo apt install git`
 
