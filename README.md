@@ -44,5 +44,5 @@ Kamu bisa menyimpan versi berbeda dari dokumen kamu, melihat perubahan dari wakt
 ☁️ GitHub itu seperti Google Drive untuk dokumenmu.
 Kamu menyimpan dokumen versi Git tadi di internet, jadi bisa diakses dari komputer mana pun, dan bisa dibagikan ke teman atau tim kamu untuk kerja bareng.
 
-Tanpa basa basi lagi, silahkan pindah ke Bab 1 pada link berikut 
+Tanpa basa basi lagi, silahkan pindah ke Bab 1 pada link berikut https://github.com/AndromedaRZ/github-guide/blob/main/Bab1.md
 
