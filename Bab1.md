@@ -46,3 +46,30 @@ git version 2.50.0
 
 
 informasi versi git yang ditampilkan setiap sistem operasi berbeda-beda
+
+
+## 📝 3. Konfigurasi Git (Wajib)
+Setelah Git terpasang, kita perlu memberi tahu Git siapa kita. Ini penting karena setiap perubahan yang kita simpan akan mencatat nama dan email kita.
+Buka terminal, lalu jalankan:
+```
+git config --global user.name "Nama Kamu"
+git config --global user.email "emailkamu@example.com"
+```
+
+contoh
+```
+git config --global user.name "Rizky"
+git config --global user.email "rizky.dev@gmail.com"
+```
+
+untuk memastikannya, ketik:
+```
+git config user.name
+git config user.email
+```
+
+maka kamu akan melihat hasil seperti ini:
+```shell
+user.name=Rizky
+user.email=rizky.dev@gmail.com
+```
