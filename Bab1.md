@@ -17,13 +17,32 @@ Ini adalah langkah pertama sebelum kamu mulai menggunakan Git. Di tutorial ini, 
 🔹 Untuk macOS:
 pergi ke bash pada macOS:
 
-`brew install git`
+```
+brew install git
+```
 
 *(Pastikan kamu sudah menginstal Homebrew. Jika belum, lihat https://brew.sh)*
 
 
 🔹 Untuk Linux (Ubuntu/Debian):
 
-`sudo apt update
-sudo apt install git`
+```
+sudo apt update
+sudo apt install git
+```
 
+## ✅ 2. Cek Apakah Git Sudah Terinstal
+Buka terminal (Command Prompt, Terminal, atau Git Bash), lalu ketik:
+
+```
+git --version
+```
+
+Jika berhasil, maka akan muncul informasi versi git seperti:
+
+```    
+git version 2.50.0
+```
+
+
+informasi versi git yang ditampilkan setiap sistem operasi berbeda-beda
